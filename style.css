@@ -1,0 +1,57 @@
+body  {
+  background-image: url("as.svg");
+}
+
+p.a {
+  font-size: 40px;
+  text-align: center;
+  width: 180px;
+  height: 55px;
+  border: 6px solid;
+  border-color: green;
+  color: white;
+
+}
+
+div.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: green;
+   color: black;
+   text-align: center;
+}
+
+p.timer {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+  color: brown
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+
+a.w:link {
+  text-decoration: none;
+  color: black
+}
+
+a.w:visited {
+  text-decoration: none;
+   color: black
+}
+
+a.w:hover {
+  text-decoration: none;
+   color: black
+}
+
+a.w:active {
+  text-decoration: none;
+   color: black
+}
