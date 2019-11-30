@@ -5,10 +5,6 @@ body  {
 p.a {
   font-size: 40px;
   text-align: center;
-  width: 180px;
-  height: 55px;
-  border: 6px solid;
-  border-color: green;
   color: white;
 
 }
